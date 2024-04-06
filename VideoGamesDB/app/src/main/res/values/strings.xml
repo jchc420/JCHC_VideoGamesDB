@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VideoGames DB</string>
+    <string name="savedGame">Juego guardado exitosamente</string>
+    <string name="errorsavedGame">Error al guardar el juego</string>
+    <string name="developer">Desarrollador</string>
+    <string name="genre">Género</string>
+    <string name="title">Título</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="update">Actualizar</string>
+    <string name="remove">Eliminar</string>
+    <string name="updatedGame">Juego actualizado exitosamente</string>
+    <string name="errorupdatedGame">Error al actualizar el juego</string>
+    <string name="removedGame">Juego eliminado exitosamente</string>
+    <string name="errorremovedGame">Error al eliminar el juego</string>
+    <string name="confirm">Confirmación</string>
+    <string name="game">Juego</string>
+</resources>
